@@ -1,0 +1,19 @@
+# Measurements of the acceleration due to gravity, g, taken between May 1934 and July 1935,
+# performed at the National Bureau of Standards in Washington DC. 
+# Eight different series of measurements. Source: Cressie (1982)
+# Example from Bootstrap methods and their applications (Davison & Hinkley), pg 72.
+# Row 1: Series nr
+# All other rows: (gravity - 980 cm/s^2) * 1000
+1,2,3,4,5,6,7,8
+76,87,105,95,76,78,82,84
+82,95,83,90,76,78,79,86
+83,98,76,76,78,78,81,85
+54,100,75,76,79,86,79,82
+35,109,51,87,72,87,77,77
+46,109,76,79,68,81,79,76
+87,100,93,77,75,73,79,77
+68,81,75,71,78,67,78,80
+,75,62,,,75,79,83
+,68,,,,82,82,81
+,67,,,,83,76,78
+
